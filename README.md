@@ -128,7 +128,7 @@ Conclusion
 This project successfully identified important churn-driving factors using data analysis and visualization techniques. The analysis helps understand customer behavior and provides actionable insights that can support better business decisions and customer retention strategies.
 
 Author
-Himanshu Srivastava
+
 
 Himanshu Srivastava
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
